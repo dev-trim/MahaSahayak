@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#0A2240"/>
+  <!-- Tricolor ring -->
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#FF9933" stroke-width="3" stroke-dasharray="75 75"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#138808" stroke-width="3" stroke-dasharray="75 75" stroke-dashoffset="75"/>
+  <!-- Inner compass star -->
+  <polygon points="32,14 36,28 50,32 36,36 32,50 28,36 14,32 28,28" fill="#FF9933"/>
+  <circle cx="32" cy="32" r="5" fill="#FFFFFF"/>
+  <circle cx="32" cy="32" r="2.5" fill="#0A2240"/>
+  <!-- Green check badge -->
+  <circle cx="50" cy="50" r="10" fill="#138808" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M46 50 L49 53 L55 47" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
